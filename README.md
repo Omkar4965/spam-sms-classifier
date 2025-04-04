@@ -6,7 +6,7 @@ A supervised learning model that classifies SMS messages as **Spam** or **Not Sp
 We developed this project to understand the patterns in spam messages and how machine learning models can effectively filter unwanted messages. This project also serves as an experience in **ML model deployment using Streamlit and Render**.
 
 ## 🌐 Live Demo  
-👉 [Try it here](https://spam-sms-classifier-omkxn.onrender.com/)  
+👉 [Try it here]([https://spam-sms-classifier-omkxn.onrender.com/](https://spam-sms-classifier-omkxr.onrender.com/))  
 
 ![image](https://github.com/user-attachments/assets/469d3f17-60a8-4fce-a57e-c8ab5d694374)
 
