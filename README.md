@@ -58,6 +58,7 @@ pip install pandas numpy scikit-learn streamlit
 ## 💚 License  
 This project is licensed under the **MIT License**.
 
-## ✉️ Contact  
-For queries or suggestions, feel free to reach out to **Omkar Chavan**.
+## ✉️ Contact
+For any queries or suggestions, feel free to reach out to [Omkar Chavan](https://www.linkedin.com/in/omkar-chavan-476a63249/).
+
 
